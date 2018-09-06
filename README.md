@@ -10,4 +10,4 @@ Version 1.0
 Coming soon:
 * Conversion of Will Yager's music visualizer for use with FastLED.
 
-NOTE: I've taken this down for the next few weeks while I put in some major work on it. Its current state isn't up to my standards. Stay tuned!
+NOTE: I've taken this down as its current state isn't up to my standards, sorry! It'll be back up in a few weeks, so stay tuned!
