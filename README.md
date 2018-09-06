@@ -1,5 +1,5 @@
 # LibreLED
-A collection of lighting effects for ws2812B-controlled LEDs, to be used with FastLED and Arduino. Asus Aura compatible.
+A collection of lighting effects for WS2812B-controlled LEDs, to be used with FastLED and Arduino. Asus Aura compatible.
 
 Version 1.0
 * Basic UI done.
